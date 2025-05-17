@@ -1,2 +1,4 @@
 *~
 *.un~
+assets/css/*.un~
+assets/css/*~
